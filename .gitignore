@@ -1,4 +1,7 @@
 ### IntelliJ IDEA ###
+.idea
+out
+myhw3.1.iml
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
